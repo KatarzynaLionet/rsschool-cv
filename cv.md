@@ -66,7 +66,7 @@ elif a <= c >= b:
 ### Languages
 * English
     - C1 Advanced/C2 Proficient (according to th online test at [EF Set Quick Check](www.efset.org))
-    - C2 Proficient (according to the online test at [EF Set Certificate](https://www.efset.org/cert/F9AwxZ)
+    - C2 Proficient (according to the online test at [EF Set Certificate](https://www.efset.org/cert/F9AwxZ))
     - Everyday practice with Duolingo from Octoder 2020 [(view my profile)](https://www.duolingo.com/profile/KatherineLionet?via=share-profile)
 * Belarussian - Native
 * Russian - Advanced
