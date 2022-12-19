@@ -1,16 +1,16 @@
 @font-face {
     font-family: Montserrat;
-     src: url("assets/fonts/Montserrat-VariableFont_wght.ttf");
+     src: url("./assests/fonts/Montserrat-VariableFont_wght.ttf");
      font-style: normal;
    }
 @font-face {
     font-family: SourceSansPro;
-     src: url("assets/fonts/SourceSansPro-Regular.ttf");
+     src: url("./assets/fonts/SourceSansPro-Regular.ttf");
      font-style: normal;
    }
 @font-face {
     font-family: SourceSansPro;
-     src: url("assets/fonts/SourceSansPro-Bold.ttf");
+     src: url("./assets/fonts/SourceSansPro-Bold.ttf");
      font-weight: bold;
    }
 body {
